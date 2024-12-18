@@ -29,7 +29,7 @@ Open the index.html file in your favorite browser.
 Play Online
 You can also play the game online through the live demo link here.
 
-##File Structure
+### File Structure
 
 
 tic-tac-toe/
@@ -39,8 +39,8 @@ tic-tac-toe/
 ├── script.js        # The JavaScript for game logic
 └── README.md        # Project documentation
 
-###Contributing
+### Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or new features.
 
-###License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
